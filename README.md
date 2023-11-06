@@ -25,7 +25,7 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone the project repository to your local machine.
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ARTSZL/terraform-static-website.git
    
 2. Navigate to the terraform directory.
    
